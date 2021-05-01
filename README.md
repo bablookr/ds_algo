@@ -10,7 +10,7 @@
 * Array/Matrix
 * Stack/Queue
 * Linked List
-* Binary Tree
+* Tree/Binary Tree
 * Binary Search Tree
 * Graph
 * Trie
